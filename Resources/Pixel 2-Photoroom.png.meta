@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: e1738af1debf7e7478c5f6f50fb4a66b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5358158773876669730
+    second: Pixel 2-Photoroom_0
+  - first:
+      213: 13527579577933096
+    second: Pixel 2-Photoroom_1
+  - first:
+      213: 4958720353216369047
+    second: Pixel 2-Photoroom_2
+  - first:
+      213: 2190845632710320570
+    second: Pixel 2-Photoroom_3
+  - first:
+      213: -6546171621891805201
+    second: Pixel 2-Photoroom_4
+  - first:
+      213: 2775768015770572593
+    second: Pixel 2-Photoroom_5
+  - first:
+      213: 6611500037124558732
+    second: Pixel 2-Photoroom_6
+  - first:
+      213: 5247749206363562458
+    second: Pixel 2-Photoroom_7
+  - first:
+      213: -1704797306350225587
+    second: Pixel 2-Photoroom_8
+  - first:
+      213: -7903932405892665139
+    second: Pixel 2-Photoroom_9
+  - first:
+      213: 7590024749889546557
+    second: Pixel 2-Photoroom_10
+  - first:
+      213: 4464113356779700427
+    second: Pixel 2-Photoroom_11
+  - first:
+      213: -3036995925038691674
+    second: Pixel 2-Photoroom_12
+  - first:
+      213: -4378362590365727318
+    second: Pixel 2-Photoroom_13
+  - first:
+      213: 4214735930717745146
+    second: Pixel 2-Photoroom_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pixel 2-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 33
+        width: 88
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed240f0ebfef3a5b0800000000000000
+      internalID: -5358158773876669730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel 2-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 33
+        width: 80
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82dd96f034f003000800000000000000
+      internalID: 13527579577933096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel 2-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 33
+        width: 81
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79116f983e9e0d440800000000000000
+      internalID: 4958720353216369047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel 2-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 33
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab12a6fce72776e10800000000000000
+      internalID: 2190845632710320570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel 2-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 33
+        width: 49
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef656ec7935725a0800000000000000
+      internalID: -6546171621891805201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel 2-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 33
+        width: 50
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13755eebd42858620800000000000000
+      internalID: 2775768015770572593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel 2-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 33
+        width: 35
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f8a492144c0cb50800000000000000
+      internalID: 6611500037124558732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel 2-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 34
+        width: 12
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad163a37910c3d840800000000000000
+      internalID: 5247749206363562458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel 2-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 33
+        width: 34
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47b3fcd1e75758e0800000000000000
+      internalID: -1704797306350225587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel 2-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 33
+        width: 49
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0b11a8a579f4290800000000000000
+      internalID: -7903932405892665139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel 2-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 33
+        width: 49
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39e69ddb4f255960800000000000000
+      internalID: 7590024749889546557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel 2-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 33
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc04ee33277b3fd30800000000000000
+      internalID: 4464113356779700427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel 2-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 33
+        width: 81
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa82cffb4c6ad5d0800000000000000
+      internalID: -3036995925038691674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel 2-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 33
+        width: 80
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5446feb6eec33c0800000000000000
+      internalID: -4378362590365727318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel 2-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 33
+        width: 89
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: affa1849fffbd7a30800000000000000
+      internalID: 4214735930717745146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Pixel 2-Photoroom_0: -5358158773876669730
+      Pixel 2-Photoroom_1: 13527579577933096
+      Pixel 2-Photoroom_10: 7590024749889546557
+      Pixel 2-Photoroom_11: 4464113356779700427
+      Pixel 2-Photoroom_12: -3036995925038691674
+      Pixel 2-Photoroom_13: -4378362590365727318
+      Pixel 2-Photoroom_14: 4214735930717745146
+      Pixel 2-Photoroom_2: 4958720353216369047
+      Pixel 2-Photoroom_3: 2190845632710320570
+      Pixel 2-Photoroom_4: -6546171621891805201
+      Pixel 2-Photoroom_5: 2775768015770572593
+      Pixel 2-Photoroom_6: 6611500037124558732
+      Pixel 2-Photoroom_7: 5247749206363562458
+      Pixel 2-Photoroom_8: -1704797306350225587
+      Pixel 2-Photoroom_9: -7903932405892665139
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
